@@ -41,3 +41,16 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Create Flask app in Container
 * Run via kubectl
 
+---
+
+### File Types
+* app.py : Flask application that predicts housing prices. 
+* docker_out.txt: The docker output file.
+* kubernetes_out.txt: The kubernetes output file.
+* make_prediction.sh: Requests flask application to make a prediction.
+* run_docker.sh : Setups/run docker.
+* run_kubernetes.sh : Setup/runs kubernetnes.
+* Makefile: Environment setup.
+* Dockerfile: Build the image.
+* requirements.txt: Dependecies.
+* upload_docker.sh: Upload to docker. 
