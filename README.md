@@ -43,7 +43,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 
-### File Types
+### File Descriptions
 * app.py : Flask application that predicts housing prices. 
 * docker_out.txt: The docker output file.
 * kubernetes_out.txt: The kubernetes output file.
