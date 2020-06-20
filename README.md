@@ -41,8 +41,3 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Create Flask app in Container
 * Run via kubectl
 
----
-### Description of File
-* The Flask Application - app.js
-* The Output Files - docker_out.txt && kubernetes_out.txt
-* The DockerFile - DockerFile
